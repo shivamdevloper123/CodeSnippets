@@ -97,7 +97,7 @@ export default App
 ### Run this command in your terminal:
 
 ```bash
-npx shadcn@latest add input label
+npx shadcn@latest add input label card
 ```
 
 ### Add the following code to `App.jsx` or another file:
